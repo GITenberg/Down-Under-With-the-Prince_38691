@@ -1,0 +1,33 @@
+_repo: Down-Under-With-the-Prince_38691
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38691-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cotes, Everard
+    gutenberg_agent_id: '41520'
+    url: http://www.gutenberg.org/2009/agents/41520
+description: ''
+gutenberg_issued: '2012-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38691'
+  lccn: '22015686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Windsor, Edward, Duke of, 1894-1972'
+- !lcsh 'New Zealand -- Description and travel'
+- !lcsh 'Australia -- Description and travel'
+tableOfContents: At sea -- Barbados -- Panama -- Southern California -- Honolulu --
+  Neptune boards the Renown -- Fiji -- Auckland -- North Island -- South Island --
+  Enterprise in New Zealand -- Victoria -- New South Wales -- Some Commonwealth affairs
+  -- Western Australia -- Wheat, gold, and logging -- The Nullarbor plain -- South
+  Australia -- Tasmania -- Queensland -- The Jackaroo and others -- Amongst the sheep
+  -- Eastward ho -- The West Indies -- The Bermudas -- The significance of the tour.
+title: Down Under with the Prince
+url: http://www.gutenberg.org/ebooks/38691
