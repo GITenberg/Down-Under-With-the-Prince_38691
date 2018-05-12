@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41520'
     url: http://www.gutenberg.org/2009/agents/41520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38691#Down-Under-With-the-Prince
 gutenberg_issued: '2012-01-27'
 gutenberg_type: Text
 identifiers:
